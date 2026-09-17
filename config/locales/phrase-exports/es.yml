@@ -382,14 +382,8 @@ es:
       tos_faq: FAQ de los términos y condiciones de servicio del AO3
       tos_violation:
         html:
-          one: Si tu obra se ocultó debido a una infracción de los %{tos_link} (incluyendo
-            las %{content_policy_link}), %{required_action_bold}. Que tu obra no cumpla con 
-            nuestros términos y condiciones de servicio pudiera resultar en la eliminación 
-            de tu obra del AO3. Para más información, revisa las %{tos_faq_link}.
-          other: Si tus obras se ocultaron debido a una infracción de los %{tos_link}
-            (incluyendo las %{content_policy_link}), %{required_action_bold}. Que tus obras 
-            no cumplan con nuestros términos y condiciones de servicio pudiera resultar en la 
-            eliminación de tus obras del AO3. Para más información, revisa las %{tos_faq_link}.
+          one: Si tu obra se ocultó debido a una infracción de los %{tos_link} (incluyendo las %{content_policy_link}), %{required_action_bold}. Que tu obra no cumpla con nuestros términos y condiciones de servicio pudiera resultar en la eliminación de tu obra del AO3. Para más información, revisa las %{tos_faq_link}.
+          other: Si tus obras se ocultaron debido a una infracción de los %{tos_link} (incluyendo las %{content_policy_link}), %{required_action_bold}. Que tus obras no cumplan con nuestros términos y condiciones de servicio pudiera resultar en la eliminación de tus obras del AO3. Para más información, revisa las %{tos_faq_link}.
         text:
           one: 'Si tu obra se ocultó debido a una infracción a los términos y condiciones
             de servicio del AO3 (%{tos_url}), incluyendo nuestras Políticas de contenido
