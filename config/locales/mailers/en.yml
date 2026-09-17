@@ -380,7 +380,7 @@ en:
       hidden_one:
         html: Your work %{title} has been hidden by the Policy & Abuse committee.
         text: Your work "%{title}" (%{work_url}) has been hidden by the Policy & Abuse committee.
-      required_action: 
+      required_action:
         one: you will be required to take action to correct the violation
         other: you will be required to take action to correct the violations
       subject:
